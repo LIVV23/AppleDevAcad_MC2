@@ -1,10 +1,8 @@
 //
 //  SlideMaskView.swift
-//  제발돼라...
 //
 //  Created by 김규리 on 2023/05/11.
 //
-
 import SwiftUI
 
 extension Color {
@@ -77,18 +75,7 @@ struct SlideMaskView: View {
                                 .offset(y: maskOffset.height)
                             
                         )
-                    //                        .gesture(
-                    //                            DragGesture()
-                    //                                .onChanged { value in
-                    //                                    let maxY = UIScreen.main.bounds.height / 3
-                    //                                    if value.location.y < maxY && value.location.y > 0 {
-                    //                                        maskOffset = value.translation
-                    //                                    }
-                    //                                }
-                    //                                .onEnded { value in
-                    //                                    maskOffset = .zero
-                    //                                }
-                    //                        )
+                   
                     
                     Image("After")
                         .resizable()
@@ -118,7 +105,7 @@ struct SlideMaskView: View {
                                 .onEnded { value in
                                     maskOffset = .zero
                                 }
-                        )
+                        )//제스쳐가 불안정한 문제 발생, 움직임 범위설정 수정 필요
                 }}
             .padding(.bottom, 200)
             .onAppear {
