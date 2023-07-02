@@ -2,6 +2,7 @@
 > 밤에 시작되는 당신의 Ritual <br>
 > 청소에 집중하고, 전후 결과를 비교하여 소소한 보람을 느껴보세요
 <br>
+
 <img src="https://github.com/Ko-HyeJi/AppleDevAcad_MC2/assets/88470545/074bf64c-b61a-4ad8-bfd4-60e41b79e97d" height="500"> | <img src="https://github.com/Ko-HyeJi/AppleDevAcad_MC2/assets/88470545/66df78bc-07ab-45f3-a1d1-c4975111abc5" height="500">
 ---|---|
 
