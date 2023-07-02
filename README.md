@@ -1,5 +1,5 @@
-![KakaoTalk_Photo_2023-05-19-17-22-15](https://github.com/Ko-HyeJi/AppleDevAcad_MC2/assets/88470545/074bf64c-b61a-4ad8-bfd4-60e41b79e97d {: width="100" height="100"}) 
-![앱소개](https://github.com/Ko-HyeJi/AppleDevAcad_MC2/assets/88470545/66df78bc-07ab-45f3-a1d1-c4975111abc5)
+![KakaoTalk_Photo_2023-05-19-17-22-15](https://github.com/Ko-HyeJi/AppleDevAcad_MC2/assets/88470545/074bf64c-b61a-4ad8-bfd4-60e41b79e97d ) 
+![앱소개](https://github.com/Ko-HyeJi/AppleDevAcad_MC2/assets/88470545/66df78bc-07ab-45f3-a1d1-c4975111abc5){: width="100" height="100"}
 
 # 밤정리
 >인트로 페이지에 들어가는 내용입니다
