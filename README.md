@@ -18,3 +18,6 @@
 <br>
 
 ## 👏 코드리뷰 문화센터를 위한 상세 정리 (파일명: "SlideMaskView.swift")
+<img src="https://github.com/LIVV23/AppleDevAcad_MC2/assets/129173717/6b9d1a29-639c-4e55-a26a-6526f4e90ebb" height="500"> | <img src="https://github.com/LIVV23/AppleDevAcad_MC2/assets/129173717/6d6bcfa8-ce17-43a5-a862-40e0b554d0ce" height="500"> | <img src="https://github.com/LIVV23/AppleDevAcad_MC2/assets/129173717/20da603a-5026-44e1-aac0-954081a1a6b0" height="500">
+:---:|:---:|:---:|
+Mask와 DragGesture를 이용하여 <br> 두 가지 이미지 비교 | 슬라이더 고정 필요 | 움직임 범위와 위치가 <br> 일관되지 않는 문제
